@@ -1,4 +1,4 @@
-# Data-Analyst-Streamlit-App-V1
+# Data-Analyst-Job-Posting-Streamlit-App-V1
 
 ### Features
 
